@@ -1,4 +1,4 @@
-# Dynamic Gitlab group and repository parser
+# Gitlab group and repository parser
 
 ## Description
 
@@ -32,5 +32,5 @@ python3 gitlab_parser.py -g *group_id* -p *project_id* -k *keyword*
 
 ## TODO
 
-* Write asynchronous version of this script
+* Polish the script
 * ~~Add command line arguments for the script~~
